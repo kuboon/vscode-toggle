@@ -2,8 +2,8 @@
     "name": "toggle",
     "displayName": "Toggle",
     "description": "Toggle settings in Visual Studio Code",
-    "version": "0.0.2",
-    "publisher": "rebornix",
+    "version": "0.0.3",
+    "publisher": "kuboon",
     "engines": {
         "vscode": "^1.75.0"
     },
